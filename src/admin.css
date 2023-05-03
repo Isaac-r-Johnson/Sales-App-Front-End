@@ -1,0 +1,51 @@
+.no-orders{
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.login-text{
+    text-align: center;
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.login-form{
+    background-color: whitesmoke;
+    width: 350px;
+    height: 175px;
+    margin: auto;
+    box-shadow: 0px 0px 5px darkgrey;
+    border-radius: 5px;
+    position: relative;
+    top: 100px;
+}
+
+.form-fields{
+    margin: 7px;
+    margin-left: 20px;
+    width: 300px;
+    height: 25px;
+    position: relative;
+    bottom: 20px;
+}
+
+.login-btn{
+    position: relative;
+    bottom: 15px;
+    left: 100px;
+    width: 140px;
+    height: 30px;
+    border-radius: 8px;
+    border: none;
+    background-color: #07a2f5;
+    font-size: large;
+    font-weight: 100;
+}
+
+.login-btn:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.login-btn:active{
+    box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.403), 0 9px 25px 0 rgba(0, 0, 0, 0.403);
+}
