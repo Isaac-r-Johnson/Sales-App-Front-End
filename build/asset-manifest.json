@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Sales-App-Front-End/static/css/main.0b86d11a.css",
-    "main.js": "/Sales-App-Front-End/static/js/main.34e47235.js",
+    "main.js": "/Sales-App-Front-End/static/js/main.69472129.js",
     "static/media/house.jpg": "/Sales-App-Front-End/static/media/house.afb37befa55d9aee7068.jpg",
     "static/media/table.png": "/Sales-App-Front-End/static/media/table.fb3c40a6d31d72a23e02.png",
     "static/media/tank.png": "/Sales-App-Front-End/static/media/tank.62ce16aca77cde1b3cf4.png",
@@ -16,10 +16,10 @@
     "static/media/berry.png": "/Sales-App-Front-End/static/media/berry.51dbe6827f05b6f1e319.png",
     "index.html": "/Sales-App-Front-End/index.html",
     "main.0b86d11a.css.map": "/Sales-App-Front-End/static/css/main.0b86d11a.css.map",
-    "main.34e47235.js.map": "/Sales-App-Front-End/static/js/main.34e47235.js.map"
+    "main.69472129.js.map": "/Sales-App-Front-End/static/js/main.69472129.js.map"
   },
   "entrypoints": [
     "static/css/main.0b86d11a.css",
-    "static/js/main.34e47235.js"
+    "static/js/main.69472129.js"
   ]
 }

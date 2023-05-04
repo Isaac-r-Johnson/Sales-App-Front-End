@@ -10,7 +10,7 @@ const Admin = () => {
     const [password, setPassword] = useState('');
 
     const LoadOrders = () => {
-        fetch('/orders/')
+        fetch('https://sales-app-back-end.onrender.com/orders/')
             .then(json => json.json())
             .then(data => {
                 setOrders(data)
@@ -41,7 +41,7 @@ const Admin = () => {
     }
 
     const Login = () => {
-        axios.post("/admin-login", {usrn: username, pass: password})
+        axios.post("https://sales-app-back-end.onrender.com/admin-login", {usrn: username, pass: password})
         .then(res => res.data)
         .then(data => {
             if (data === "GOOD"){
