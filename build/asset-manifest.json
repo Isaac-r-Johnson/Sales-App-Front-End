@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Sales-App-Front-End/static/css/main.0b86d11a.css",
+    "main.js": "/Sales-App-Front-End/static/js/main.8b473f36.js",
+    "static/media/house.jpg": "/Sales-App-Front-End/static/media/house.afb37befa55d9aee7068.jpg",
+    "static/media/table.png": "/Sales-App-Front-End/static/media/table.fb3c40a6d31d72a23e02.png",
+    "static/media/tank.png": "/Sales-App-Front-End/static/media/tank.62ce16aca77cde1b3cf4.png",
+    "static/media/coffee.jpg": "/Sales-App-Front-End/static/media/coffee.b1fea107e71a4507b378.jpg",
+    "static/media/motorcycle.png": "/Sales-App-Front-End/static/media/motorcycle.9e7cd85a92d49dc6bec0.png",
+    "static/media/macBook.png": "/Sales-App-Front-End/static/media/macBook.40c2afdcdb12c39b4b59.png",
+    "static/media/computer.png": "/Sales-App-Front-End/static/media/computer.a36f149e72a4f35532c4.png",
+    "static/media/iphone.png": "/Sales-App-Front-End/static/media/iphone.fcfe8aaadf882218c330.png",
+    "static/media/car.jpg": "/Sales-App-Front-End/static/media/car.133d9be9301bb84ea72b.jpg",
+    "static/media/headphones.png": "/Sales-App-Front-End/static/media/headphones.74d158f1a123b5030cea.png",
+    "static/media/bike.png": "/Sales-App-Front-End/static/media/bike.df4ff69f48542b4fd872.png",
+    "static/media/berry.png": "/Sales-App-Front-End/static/media/berry.51dbe6827f05b6f1e319.png",
+    "index.html": "/Sales-App-Front-End/index.html",
+    "main.0b86d11a.css.map": "/Sales-App-Front-End/static/css/main.0b86d11a.css.map",
+    "main.8b473f36.js.map": "/Sales-App-Front-End/static/js/main.8b473f36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b86d11a.css",
+    "static/js/main.8b473f36.js"
+  ]
+}

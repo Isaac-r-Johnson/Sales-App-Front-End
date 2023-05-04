@@ -2,7 +2,6 @@
   "name": "sales-app",
   "version": "0.1.0",
   "homepage": "https://Isaac-r-Johnson.github.io/Sales-App-Front-End",
-  "proxy": "https://sales-app-back-end.onrender.com/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.6",
