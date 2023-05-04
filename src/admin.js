@@ -41,7 +41,7 @@ const Admin = () => {
     }
 
     const Login = () => {
-        axios.post("https://sales-app-back-end.onrender.com/admin-login", {usrn: username, pass: password})
+        axios.post("/admin-login", {usrn: username, pass: password})
         .then(res => res.data)
         .then(data => {
             if (data === "GOOD"){

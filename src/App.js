@@ -14,7 +14,7 @@ function App() {
   const [productPage, setProductPage] = useState(true);
 
   const LoadProducts = () => {
-    fetch('https://sales-app-back-end.onrender.com/products/')
+    fetch('/products/')
       .then(json => json.json())
       .then(data => {
         setProducts(data)
