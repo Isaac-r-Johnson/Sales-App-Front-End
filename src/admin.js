@@ -10,7 +10,7 @@ const Admin = () => {
     const [password, setPassword] = useState('');
 
     const LoadOrders = () => {
-        fetch('https://sales-app-back-end.onrender.com/orders/')
+        fetch('/orders/')
             .then(json => json.json())
             .then(data => {
                 setOrders(data)

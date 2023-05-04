@@ -1,6 +1,7 @@
 {
   "name": "sales-app",
   "version": "0.1.0",
+  "proxy": "https://sales-app-back-end.onrender.com/",
   "homepage": "https://Isaac-r-Johnson.github.io/Sales-App-Front-End",
   "private": true,
   "dependencies": {

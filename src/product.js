@@ -23,7 +23,7 @@ const Product = (props) => {
                 "addr": tempAddr,
                 "quantity": Number(tempQuantity, 0)
             };
-            axios.post("https://sales-app-back-end.onrender.com/add-order", orderToAdd);
+            axios.post("/add-order/", orderToAdd);
             setTempName('');
             setTempEmail('');
             setTempAddr('');
